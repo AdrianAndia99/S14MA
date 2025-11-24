@@ -1767,7 +1767,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1325344393}
-  - component: {fileID: 1325344392}
+  - component: {fileID: 1325344394}
   m_Layer: 0
   m_Name: Leaderboards
   m_TagString: Untagged
@@ -1775,31 +1775,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1325344392
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1325344391}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1c4974bf50d61024e85a6249f437514f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  localEntries:
-  - name: Ana
-    score: 1500
-    rank: 0
-  - name: Bruno
-    score: 1200
-    rank: 0
-  - name: Carla
-    score: 900
-    rank: 0
-  - name: Diego
-    score: 700
-    rank: 0
 --- !u!4 &1325344393
 Transform:
   m_ObjectHideFlags: 0
@@ -1815,6 +1790,31 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1325344394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1325344391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92c6b42661f455a4a81a8dd3c8bf7c6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localEntries:
+  - name: Ana
+    score: 1500
+    rank: 0
+  - name: Bruno
+    score: 1200
+    rank: 0
+  - name: Carla
+    score: 900
+    rank: 0
+  - name: Diego
+    score: 700
+    rank: 0
 --- !u!1 &1432055259
 GameObject:
   m_ObjectHideFlags: 0

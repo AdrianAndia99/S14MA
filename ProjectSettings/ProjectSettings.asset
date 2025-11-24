@@ -921,11 +921,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: a51a1b5d-71b8-4d3c-9fbb-e43d8960a7a3
+  cloudProjectId: 321d1833-2fc1-4236-87de-29bab6c25b7c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: S7MA
-  organizationId: juanneyraalonzo
+  projectName: S7MA (6)
+  organizationId: unity_25887ba0af290fe4ba31
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
